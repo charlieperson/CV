@@ -16,9 +16,8 @@ I’m an enthusiastic web developer that works and plays well with others. At se
 Makers Academy has equipped me with a working knowledge of the very best practices in modern software development.
 
 - Software development is a team effort. I am a huge advocate of pair programming. Makers Academy fully embraces as evidenced by the fact that throughout the course we were asked to pair with someone different every day. This helped me further develop strong teamworking and interpersonal skills in the context of coding.
-- I am constantly looking to expand my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
 - At Makers, I learned that development should be seen as a craft. Using the red, green, refactor model, working code is just the first step, refactoring for simplicity and to allow other developers to understand and extend my code without resorting to modification is crucial.
-- Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning as well as experimenting with new ideas and technologies as they arise in order to expand my skill set.
+- I have a great curiosity and passion for technology. I enjoy independent and exploratory learning as well as experimenting with new ideas and technologies as they arise in order to expand my skill set.
 
 #### Code Examples
 
@@ -26,7 +25,7 @@ Makers Academy has equipped me with a working knowledge of the very best practic
 |-------------|-------------|-------------|-------------|
 [English Tutors Live](https://github.com/charlieperson/etl) | A 3 month (and running) project with [Richard Moss](https://github.com/ric9176/etl) [Dovile Sandaite](https://github.com/DovileSand), a web app built on Rails with a mission to teach people english no matter where they are, or what their timeframe is like. | Ruby on Rails, Active Record, Devise, Bootstrap, tested using RSpec, Shoulda, FactoryGirl, and Capybara
 [WeJammin](https://github.com/charlieperson/weJammin) | A two week project with [Sara Tateno](https://github.com/saratateno), [Angus Whitehead](https://github.com/angusjfw), [Daniela Galeote](https://github.com/DanielaGSB), A collaborative looping machine that allows friends to create live beats together online no matter where in the world they may be | Web Sockets, AngularJS, Tone.js, tested with Protractor and Karma-Jasmine | Check it out here: http://we-jammin.herokuapp.com/
-[Instagram Challenge](https://github.com/charlieperson/instagram-challenge) | Interesting for the time contraints, the challenge was to re-create instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara.
+[Instagram Challenge](https://github.com/charlieperson/instagram-challenge) | Interesting for the time constraints, the challenge was to re-create Instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara.
 [WISHD](https://github.com/charlieperson/WISHD) | A project made during a three day hackathon with [Alan Gabbianelli](https://github.com/AlanGabbianelli), [Adam Lancaster](https://github.com/Adzz), [James Borrell](https://github.com/JBorrell) An attempt to make people aware of how much time they waste on social media, and try and make them realize all the other wonderful things they could be doing with their time. | JavaScript, tested with Jasmine.
 
 ## Experience
