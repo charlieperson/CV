@@ -21,8 +21,8 @@ Makers Academy has equipped me with a working knowledge of the very best practic
 
 #### Code Examples
 
-| Github | Description | Technologies | See it live
-|-------------|-------------|-------------|-------------|
+| Github | Description | Technologies
+|-------------|-------------|-------------|
 [English Tutors Live](https://github.com/charlieperson/etl) | A 3 month (and running) project with [Richard Moss](https://github.com/ric9176/etl) [Dovile Sandaite](https://github.com/DovileSand), a web app built on Rails with a mission to teach people english no matter where they are, or what their timeframe is like. | Ruby on Rails, Active Record, Devise, Bootstrap, tested using RSpec, Shoulda, FactoryGirl, and Capybara
 [WeJammin](https://github.com/charlieperson/weJammin) | A two week project with [Sara Tateno](https://github.com/saratateno), [Angus Whitehead](https://github.com/angusjfw), [Daniela Galeote](https://github.com/DanielaGSB), A collaborative looping machine that allows friends to create live beats together online no matter where in the world they may be | Web Sockets, AngularJS, Tone.js, tested with Protractor and Karma-Jasmine | Check it out here: http://we-jammin.herokuapp.com/
 [Instagram Challenge](https://github.com/charlieperson/instagram-challenge) | Interesting for the time constraints, the challenge was to re-create Instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara.
