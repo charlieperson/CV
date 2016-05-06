@@ -9,6 +9,7 @@ I’m an enthusiastic web developer that works and plays well with others. At se
 - Presenting, public speaking, and pitching make life worth living for me. Practice makes perfect, and I never turn down an opportunity to refine these skills.
 - I am persistent when facing adversity. I do not allow myself to struggle on a problem more than 20 minutes before looking elsewhere for a solution. At Maker's Academy, we call this the escalation process.
 - Feedback. I attended a Digital Media school called Hyper Island based in Stockholm Sweden. I was trained how to give and receive feedback in a professional environment constructively.
+- I'm a receptive listener and an effective communicator.
 - I don't pretend to know things.
 
 #### Clean code
@@ -24,7 +25,7 @@ Makers Academy has equipped me with a working knowledge of the very best practic
 | Github | Description | Technologies
 |-------------|-------------|-------------|
 [English Tutors Live](https://github.com/charlieperson/etl) | A 3 month (and running) project with [Richard Moss](https://github.com/ric9176/etl) [Dovile Sandaite](https://github.com/DovileSand), a web app built on Rails with a mission to teach people english no matter where they are, or what their timeframe is like. | Ruby on Rails, Active Record, Devise, Bootstrap, tested using RSpec, Shoulda, FactoryGirl, and Capybara
-[WeJammin](https://github.com/charlieperson/weJammin) | A two week project with [Sara Tateno](https://github.com/saratateno), [Angus Whitehead](https://github.com/angusjfw), [Daniela Galeote](https://github.com/DanielaGSB), A collaborative looping machine that allows friends to create live beats together online no matter where in the world they may be. Check it out live here: http://we-jammin.herokuapp.com/ | Web Sockets, AngularJS, Tone.js, tested with Protractor and Karma-Jasmine. 
+[WeJammin](https://github.com/charlieperson/weJammin) | A two week project with [Sara Tateno](https://github.com/saratateno), [Angus Whitehead](https://github.com/angusjfw), [Daniela Galeote](https://github.com/DanielaGSB), A collaborative looping machine that allows friends to create live beats together online no matter where in the world they may be. Check it out live here: http://we-jammin.herokuapp.com/ | Web Sockets, AngularJS, Tone.js, tested with Protractor and Karma-Jasmine.
 [Instagram Challenge](https://github.com/charlieperson/instagram-challenge) | Interesting for the time constraints, the challenge was to re-create Instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara.
 [WISHD](https://github.com/charlieperson/WISHD) | A project made during a three day hackathon with [Alan Gabbianelli](https://github.com/AlanGabbianelli), [Adam Lancaster](https://github.com/Adzz), [James Borrell](https://github.com/JBorrell) An attempt to make people aware of how much time they waste on social media, and try and make them realize all the other wonderful things they could be doing with their time. | JavaScript, tested with Jasmine.
 
