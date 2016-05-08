@@ -26,7 +26,7 @@ I’m an enthusiastic web developer that works and plays well with others. I app
 
 ### Ruby on Rails Developer at English Tutors Live — Lisbon, Portugal
 ##### (February 2016 - PRESENT)
-- Lead back end developer with[Richard Moss](https://github.com/ric9176/etl)
+- Lead back end developer with [Richard Moss](https://github.com/ric9176/etl)
 - Lead front end developer with [Dovile Sandaite](https://github.com/DovileSand)
 - Built this platform up from nothing.
 - View our progress as it comes together here: https://github.com/ric9176/etl
