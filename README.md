@@ -24,22 +24,27 @@ I’m an enthusiastic web developer that works and plays well with others. I app
 
 ## Experience
 
-### Ruby on Rails Developer at English Tutors Live — Lisbon, Portugal (February 2016 - PRESENT)
+### Ruby on Rails Developer at English Tutors Live — Lisbon, Portugal
+#### (February 2016 - PRESENT)
+- One of two lead backend developers
 - English Tutors Live connects students that want to learn English, with tutors that can teach them over Skype.
 - A commission is taken from each class. While the business model works, the current structure requires too much manual work.
 - We’re currently building out a platform in Ruby on Rails to automate the service. We built this up from nothing- and our current This is what gets me out of bed.
 
-### Digital Intern, Person & Partners Automotive Advertising — Austin, Texas (December 2013 - June 2014)
+### Digital Intern, Person & Partners Automotive Advertising — Austin, Texas
+#### (December 2013 - June 2014)
 - Interned under Jason Steele’s lead generation team with a focus on search engine optimization, conversion rate optimization, display, A/B testing, Google Analytics.
 - During this time, we brought the average cost per phone and form lead down from $3.47 to $2.68 for Greenway Dodge http://www.greenwaychryslerjeepdodge.com/.
 - I obtained Google AdWords certification during this time.
 
 ## Education
 
-### Maker’s Academy — London, England (October 2015 - March 2016)
+### Maker’s Academy — London, England
+####(October 2015 - March 2016)
 A sixteen week highly selective web development bootcamp. The curriculum consists of Ruby, Rails, Sinatra, JavaScript, jQuery, HTML, CSS, and whatever else needed to get the job done. We were taught best practices from the beginning. We learned the importance of always test driving development, keeping code DRY, pair programming, the escalation process, and the single responsibility principle. This is where I fell in love with code. http://www.makersacademy.com/
 
-### Hyper Island Digital Media Creative, Class of 2016 — Stockholm, Sweden (August 2014 - June 2016)
+### Hyper Island Digital Media Creative, Class of 2016 — Stockholm, Sweden
+####(August 2014 - June 2016)
 A digital media school focused on group dynamics, and how to best utilize talent among team members. Digital Media Creative is a two year immersive learning journey exploring topics from design to technology, and strategy to project management. I got the privilege to present to companies like IKEA and Hugo Boss. This school is where I found myself. https://www.hyperisland.com/
 
 #### Languages
@@ -49,5 +54,5 @@ A digital media school focused on group dynamics, and how to best utilize talent
 
 #### Other qualifications
 
-- Multiple Cousera certificates (I'm a big fan of e-learning)
+- Multiple Coursera certificates (I'm a big fan of e-learning)
 - Google Adwords Certified
