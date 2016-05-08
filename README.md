@@ -26,10 +26,9 @@ I’m an enthusiastic web developer that works and plays well with others. I app
 
 ### Ruby on Rails Developer at English Tutors Live — Lisbon, Portugal
 #### (February 2016 - PRESENT)
-- One of two lead backend developers
-- English Tutors Live connects students that want to learn English, with tutors that can teach them over Skype.
-- A commission is taken from each class. While the business model works, the current structure requires too much manual work.
-- We’re currently building out a platform in Ruby on Rails to automate the service. We built this up from nothing- and our current This is what gets me out of bed.
+- Lead back end developer with[Richard Moss](https://github.com/ric9176/etl)
+- Lead front end developer with [Dovile Sandaite](https://github.com/DovileSand)
+- Built this platform up from nothing. View our progress as it comes together here: https://github.com/ric9176/etl
 
 ### Digital Intern, Person & Partners Automotive Advertising — Austin, Texas
 #### (December 2013 - June 2014)
