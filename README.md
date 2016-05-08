@@ -25,14 +25,14 @@ I’m an enthusiastic web developer that works and plays well with others. I app
 ## Experience
 
 #### Ruby on Rails Developer at English Tutors Live — Lisbon, Portugal
-##### (February 2016 - PRESENT)
+###### (February 2016 - PRESENT)
 - Lead back end developer with [Richard Moss](https://github.com/ric9176/etl)
 - Lead front end developer with [Dovile Sandaite](https://github.com/DovileSand)
 - Built this platform up from nothing.
 - View our progress as it comes together here: https://github.com/ric9176/etl
 
 #### Digital Intern, Person & Partners Automotive Advertising — Austin, Texas
-##### (December 2013 - June 2014)
+###### (December 2013 - June 2014)
 - Interned under Jason Steele’s lead generation team.
 - Brought average cost per phone and form lead down from $3.47 to $2.68 for Greenway Dodge by experimenting with various search engine optimization, conversion rate optimization, A/B testing, and Google Analytics strategies. http://www.greenwaychryslerjeepdodge.com/
 - I obtained Google AdWords certification during this time.
@@ -40,11 +40,11 @@ I’m an enthusiastic web developer that works and plays well with others. I app
 ## Education
 
 #### Maker’s Academy — London, England
-##### (October 2015 - March 2016)
+###### (October 2015 - March 2016)
 A sixteen week highly selective web development bootcamp. The curriculum consists of Ruby, Rails, Sinatra, JavaScript, jQuery, HTML, CSS, and whatever else needed to get the job done. We were taught best practices from the beginning. We learned the importance of always test driving development, keeping code DRY, pair programming, the escalation process, and the single responsibility principle. This is where I fell in love with code. http://www.makersacademy.com/
 
 #### Hyper Island Digital Media Creative, Class of 2016 — Stockholm, Sweden
-##### (August 2014 - June 2016)
+###### (August 2014 - June 2016)
 A digital media school focused on group dynamics, and how to best utilize talent among team members. Digital Media Creative is a two year immersive learning journey exploring topics from design to technology, and strategy to project management. I got the privilege to present to companies like IKEA and Hugo Boss. This school is where I found myself. https://www.hyperisland.com/
 
 #### Languages
