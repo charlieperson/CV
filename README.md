@@ -34,7 +34,7 @@ I’m an enthusiastic web developer that works and plays well with others. I app
 ### Digital Intern, Person & Partners Automotive Advertising — Austin, Texas
 ##### (December 2013 - June 2014)
 - Interned under Jason Steele’s lead generation team.
-- Brought average cost per phone and form lead down from $3.47 to $2.68 for Greenway Dodge experimenting with various search engine optimization, conversion rate optimization, display, A/B testing, and Google Analytics strategies. http://www.greenwaychryslerjeepdodge.com/
+- Brought average cost per phone and form lead down from $3.47 to $2.68 for Greenway Dodge by experimenting with various search engine optimization, conversion rate optimization, A/B testing, and Google Analytics strategies. http://www.greenwaychryslerjeepdodge.com/
 - I obtained Google AdWords certification during this time.
 
 ## Education
