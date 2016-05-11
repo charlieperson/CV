@@ -15,7 +15,7 @@
 #### Lead Developer at English Tutors Live
 ###### Lisbon, Portugal &emsp; February 2016 - Present
 - Our mission is to give anyone who wants to learn a language, their own personal teacher.
-- Built X to do Y which accomplished Z.
+- Built platform architecture that enables students to find a teacher that suits them, and enhance learning by allowing teachers to give students notes and homework upon completion of each class.
 
 #### Growth Hacker at Person & Partners Automotive Advertising
 ###### Austin, Texas &emsp; December 2013 - June 2014
