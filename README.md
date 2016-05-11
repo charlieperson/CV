@@ -15,11 +15,13 @@
 #### Lead Developer at English Tutors Live
 ###### Lisbon, Portugal &emsp; February 2016 - Present
 - Our mission is to give anyone who wants to learn a language, their own personal teacher.
+- Major contributor in design sprint process, where we came up with the best way to set a foundation that could be scaled and built on by others without modification.
 - Built platform architecture that enables students to find a teacher that suits them, and enhance learning by allowing teachers to give students notes and homework upon completion of each class.
 
 #### Growth Hacker at Person & Partners Automotive Advertising
 ###### Austin, Texas &emsp; December 2013 - June 2014
 - Member of the lead generation team.
+- Observed the effect that altering different elements on landing pages had on analytics, adjusted accordingly, and brought the bounce rate down from 48% to 37% over six months for Greenway Dodge.
 - Decreased average lead cost from $3.47 to $2.68 for Greenway Dodge by experimenting with various search engine optimization, conversion rate optimization, A/B testing, and Google Analytics strategies.
 
 ## Education
@@ -49,6 +51,7 @@ A digital media school focused on group dynamics, and how to best utilize talent
 ## Additional Qualifications
 
 - Coursera certificates for John Hopkins University Active Record Course
+- Directing, producing, acting, and concepting: https://www.youtube.com/watch?v=XxDgC3NmJZk
 - Google Adwords certified
 
 
