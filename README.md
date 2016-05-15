@@ -15,7 +15,7 @@
 #### Lead Developer at English Tutors Live
 ###### Lisbon, Portugal &emsp; February 2016 - Present
 - Our mission is to give anyone who wants to learn a language, their own personal teacher.
-- Decided that single table inheritance was not as scalable as separating out the two user models (student and teacher), which established a flexible foundation, allowing the implementation of future features to be carried out without modification.
+- Designed application to be easily extendable with modular components.
 - Built platform architecture that enables students to find a teacher that suits them, and enhance learning by allowing teachers to give students notes and homework upon completion of each class.
 
 #### Growth Hacker at Person & Partners Automotive Advertising
