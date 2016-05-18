@@ -51,7 +51,6 @@ A digital media school focused on group dynamics, and how to best utilize talent
 ## Additional Qualifications
 
 - Coursera certificates for John Hopkins University Active Record Course
-- Directing, producing, acting, and concepting: https://www.youtube.com/watch?v=XxDgC3NmJZk
 - Google Adwords certified
 
 
