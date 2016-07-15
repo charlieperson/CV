@@ -28,7 +28,7 @@
 
 #### [MakerSquare]
 ###### Austin, Texas &emsp; June 2016 - October 2016
-Four months of non-stop everything JavaScript. The curriculum consists of both front-end, and back-end technologies. Front-end tech consists of Native Javascript, AngularJS, BackboneJS, ReactJS, D3, and JQuery. Back-end tech consists of Node, Express, SQL, MongoDB, and BookshelfJS. I was able to continue learning and implementing best practices in everything I did. 
+Four months of non-stop everything JavaScript. The curriculum consists of both front-end, and back-end technologies. Front-end tech consists of Native Javascript, AngularJS, BackboneJS, ReactJS, D3, and JQuery. Back-end tech consists of Node, Express, SQL, MongoDB, and BookshelfJS. I was able to continue learning and implementing best practices in everything I did.
 
 #### [Maker’s Academy]
 ###### London, England &emsp; October 2015 - March 2016
@@ -77,5 +77,6 @@ A digital media school focused on group dynamics, and how to best utilize talent
 [Adam Lancaster]: https://github.com/Adzz
 [James Borrell]: https://github.com/JBorrell
 
+[MakerSquare]: https://www.makersquare.com/
 [Maker’s Academy]: http://www.makersacademy.com
 [Hyper Island Digital Media Creative]: https://www.hyperisland.com
