@@ -26,6 +26,10 @@
 
 ## Education
 
+#### [MakerSquare]
+###### Austin, Texas &emsp; June 2016 - October 2016
+Four months of non-stop everything JavaScript. The curriculum consists of both front-end, and back-end technologies. Front-end tech consists of Native Javascript, AngularJS, BackboneJS, ReactJS, D3, and JQuery. Back-end tech consists of Node, Express, SQL, MongoDB, and BookshelfJS. I was able to continue learning and implementing best practices in everything I did. 
+
 #### [Maker’s Academy]
 ###### London, England &emsp; October 2015 - March 2016
 A sixteen week highly selective web development bootcamp. The curriculum consists of Ruby, Rails, Sinatra, JavaScript, jQuery, HTML, CSS, and whatever else is needed to get the job done. We were taught best practices from the beginning. We learned the importance of always test driving development, keeping code DRY, pair programming, the escalation process, and the single responsibility principle. This is where I fell in love with code.
