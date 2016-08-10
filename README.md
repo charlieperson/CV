@@ -27,8 +27,8 @@
 ## Education
 
 #### [MakerSquare]
-###### Austin, Texas &emsp; June 2016 - October 2016
-Four months of non-stop everything JavaScript. The curriculum consists of both front-end, and back-end technologies. Front-end tech consists of Native Javascript, AngularJS, BackboneJS, ReactJS, D3, and JQuery. Back-end tech consists of Node, Express, SQL, MongoDB, and BookshelfJS. I was able to continue learning and implementing best practices in everything I did.
+###### Austin, Texas &emsp; August 2016 - December 2016
+Four months of non-stop everything JavaScript. The curriculum consists of both front-end, and back-end technologies. Front-end tech consists of Native Javascript, Angular, Backbone, React, D3, and JQuery. Back-end tech consists of Node, Express, SQL, MongoDB, and Bookshelf. Pair programming is a pillar at this school. I am able to refine this skill everyday to maximize learning, and practice working with others to solve problems.
 
 #### [Maker’s Academy]
 ###### London, England &emsp; October 2015 - March 2016
