@@ -26,7 +26,7 @@
 
 ## Education
 
-#### [MakerSquare]
+#### [Hack Reactor]
 ###### Austin, Texas &emsp; August 2016 - December 2016
 Four months of non-stop everything JavaScript. The curriculum consists of both front-end, and back-end technologies. Front-end tech consists of Native Javascript, Angular, Backbone, React, D3, and JQuery. Back-end tech consists of Node, Express, SQL, MongoDB, and Bookshelf. Pair programming is a pillar at this school. I am able to refine this skill everyday to maximize learning, and practice working with others to solve problems.
 
