@@ -77,6 +77,6 @@ A digital media school focused on group dynamics, and how to best utilize talent
 [Adam Lancaster]: https://github.com/Adzz
 [James Borrell]: https://github.com/JBorrell
 
-[MakerSquare]: https://www.makersquare.com/
+[Hack Reactor]: http://www.hackreactor.com/
 [Maker’s Academy]: http://www.makersacademy.com
 [Hyper Island Digital Media Creative]: https://www.hyperisland.com
